@@ -1,0 +1,16 @@
+{
+  "root": "./",
+  "routes": {
+    "/": "index.html",
+    "/about": "about",
+    "/cart": "cart",
+    "/checkout": "checkout",
+    "/contact": "contact",
+    "/shop": "shop",
+    "/product": "product",
+    "/privacy-policy": "privacy-policy",
+    "/refund-policy": "refund-policy",
+    "/shipping-policy": "shipping-policy",
+    "/terms": "terms"
+  }
+}
